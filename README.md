@@ -33,17 +33,17 @@ Data Source used: https://archive.ics.uci.edu/ml/datasets/online+retail
 
 ### Elbow method to choose the optimal number of customer segments (clusters):
 
-![image](https://user-images.githubusercontent.com/38769913/51401473-da786880-1b18-11e9-9f8e-3a79651f25f3.png)
+![image](https://github.com/banik-s/Customer-Segmentation-and-Behavior-Analysis-using-Machine-Learning/blob/main/Images/2.png)
 
 
 ### Customer segments:
 
-![image](https://user-images.githubusercontent.com/38769913/51401411-aa30ca00-1b18-11e9-957d-5bd9342b9093.png)
+![image](https://github.com/banik-s/Customer-Segmentation-and-Behavior-Analysis-using-Machine-Learning/blob/main/Images/1.png)
 
 
 ## Distribution of customers in the 3 (optimal # of) clusters:
 
-![image](https://user-images.githubusercontent.com/38769913/51401510-ef54fc00-1b18-11e9-996e-e06ce24b873d.png)
+![image](https://github.com/banik-s/Customer-Segmentation-and-Behavior-Analysis-using-Machine-Learning/blob/main/Images/3.png)
 
 
 ### Analysis:
@@ -57,9 +57,9 @@ Customer segment # 1 & 2 have opportunities for growth and future expansion. As 
 
 ### Buying behavior of customers within each cluster:
 
-![image](https://user-images.githubusercontent.com/38769913/51401375-91c0af80-1b18-11e9-9eb9-be9fcc102d66.png)
+![image](https://github.com/banik-s/Customer-Segmentation-and-Behavior-Analysis-using-Machine-Learning/blob/main/Images/4.png)
 
-![image](https://user-images.githubusercontent.com/38769913/51401293-60e07a80-1b18-11e9-8f6d-0f910b8e6d74.png)
+![image](https://github.com/banik-s/Customer-Segmentation-and-Behavior-Analysis-using-Machine-Learning/blob/main/Images/5.png)
 
 ### Analysis:
 
@@ -85,23 +85,23 @@ Delicassen: Segnment # 2 on average makes most purchases, followed by Segmnet # 
 
 1084 out of total 3877, top 25% of customer segments result in 79% of total $ sales amount.
 
-![image](https://user-images.githubusercontent.com/38769913/51401094-f92a2f80-1b17-11e9-9772-da123b92844f.png)
+![image](https://github.com/banik-s/Customer-Segmentation-and-Behavior-Analysis-using-Machine-Learning/blob/main/Images/6.png)
 
 
 ### Products:
 
 775 out of total 3877, top 20% of products result in 79% of total $ sales amount.
 
-![image](https://user-images.githubusercontent.com/38769913/51401016-cc761800-1b17-11e9-9069-29b34fd5bbd1.png)
+![image](https://github.com/banik-s/Customer-Segmentation-and-Behavior-Analysis-using-Machine-Learning/blob/main/Images/7.png)
 
 
 ### Geographic Locations: Top 10 countries by revenue
 
-![image](https://user-images.githubusercontent.com/38769913/51400833-5d98bf00-1b17-11e9-8f8a-2fed1fcee2e1.png)
+![image](https://github.com/banik-s/Customer-Segmentation-and-Behavior-Analysis-using-Machine-Learning/blob/main/Images/8.png)
 
 ### Geographic Locations: Bottom 20 countries by revenue
 
-![image](https://user-images.githubusercontent.com/38769913/51400800-4954c200-1b17-11e9-8bdc-7f5d0cd58b89.png)
+![image](https://github.com/banik-s/Customer-Segmentation-and-Behavior-Analysis-using-Machine-Learning/blob/main/Images/9.png)
 
 ### Analysis:
 UK alone results in 82% of total $ revenue which is expected for a UK based retailer.
